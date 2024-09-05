@@ -11,7 +11,7 @@ export default function Home() {
         </Head>
         <Nav/>
         <main className="bg-white px-3">
-          <section className="relative h-[70svh] max-w-7xl w-full mx-auto overflow-hidden rounded-3xl my-24 ">
+          <section className="relative h-[70svh] max-w-7xl w-full mx-auto overflow-hidden rounded-3xl mt-24 mb-14 ">
             <Image
               src="/hero-image.jpeg"
               alt="Pindi en concert"
@@ -21,7 +21,7 @@ export default function Home() {
 
             <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
               <div className="text-center text-white px-4">
-                <h1 className="text-4xl sm:text-6xl text-balance font-bold mb-2">Pindi - L'Orchestre Créatif Gabonais</h1>
+                <h1 className="text-3xl sm:text-6xl text-balance font-bold mb-2">Pindi - L'Orchestre Créatif Gabonais</h1>
                 <p className="text-lg font-light sm:text-xl text-balance">Fusion des rythmes traditionnels et modernes du Gabon</p>
               </div>
             </div>
