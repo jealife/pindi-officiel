@@ -20,7 +20,7 @@ export default function Home() {
             />
 
             <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
-              <div className="text-center text-white px-7">
+              <div className="text-center text-white px-4">
                 <h1 className="text-4xl sm:text-6xl text-balance font-bold mb-2">Pindi - L'Orchestre Créatif Gabonais</h1>
                 <p className="text-lg font-light sm:text-xl text-balance">Fusion des rythmes traditionnels et modernes du Gabon</p>
               </div>
