@@ -6,7 +6,7 @@ export default function Home() {
       <div className="min-h-screen bg-gray-100">
         <Head>
           <title>Pindi - L'Orchestre Créatif Gabonais</title>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/hero-image.jpeg" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
         <Nav/>
